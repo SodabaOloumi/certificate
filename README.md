@@ -1,4 +1,4 @@
-# Identity Management In Healthcare using blockchain technology
+# Certificate
 In order to address the issue of fake certificates, an application has been developed with two types of users: organization users and student users. The primary purpose of this application is to allow organizations to create certificates for students, ensuring their authenticity through a unique hashed ID. By implementing this system, the prevalence of fake certificates in Afghanistan can be significantly reduced.
 
 The organization user plays a crucial role in this application as they are responsible for creating certificates for students. These organization users are typically educational institutions, training centers, or any other authorized entities that have the authority to issue certificates. When creating a certificate, the organization user generates a unique hashed ID for each student. This ID serves as a digital fingerprint that ensures the authenticity and integrity of the certificate.
